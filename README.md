@@ -10,4 +10,6 @@ images/
 pdfs/
   Proyecto1_MiniEbook.pdf
   Proyecto2_DiarioTemplate.pdf
-  Proyecto3_Reescritura.pdf# Scribesandra
+  Proyecto3_Reescritura.pdf<img src="images/mini-ebook-cover.jpg" alt="Portada Mini-ebook" />
+...
+<a href="pdfs/Proyecto1_MiniEbook.pdf" target="_blank">Ver Mini-ebook</a># Scribesandra
